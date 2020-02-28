@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7207ddcd-4013-45c5-aec0-6bb1f0c4fabc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XWOXLcWqpJK1vrmUGjOJOcaVRN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.vedantu.models" />
+      <recent name="com.vedantu.managers" />
+      <recent name="com.vedantu.requests" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/ENV-LOCAL" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.vedantu.jwt" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7207ddcd-4013-45c5-aec0-6bb1f0c4fabc" name="Default Changelist" comment="" />
+      <created>1581158422700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581158422700</updated>
+      <workItem from="1581158426121" duration="3251000" />
+      <workItem from="1581165376580" duration="24000" />
+      <workItem from="1581313013708" duration="22616000" />
+      <workItem from="1581348687072" duration="3207000" />
+      <workItem from="1581400869556" duration="14027000" />
+      <workItem from="1581439101860" duration="619000" />
+      <workItem from="1581487070178" duration="673000" />
+      <workItem from="1581487813996" duration="498000" />
+      <workItem from="1581488800070" duration="1361000" />
+      <workItem from="1581696234365" duration="612000" />
+      <workItem from="1581835351885" duration="630000" />
+      <workItem from="1581917305121" duration="41262000" />
+      <workItem from="1582011881105" duration="693000" />
+      <workItem from="1582094080501" duration="8000" />
+      <workItem from="1582178854074" duration="15736000" />
+      <workItem from="1582525043897" duration="15831000" />
+      <workItem from="1582610683198" duration="24000" />
+      <workItem from="1582699492436" duration="277000" />
+      <workItem from="1582699975242" duration="671000" />
+      <workItem from="1582888086573" duration="659000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="35" width="800" height="677" key="#Auto_Import" timestamp="1582200433866">
+      <screen x="0" y="27" width="1366" height="696" />
+    </state>
+    <state x="278" y="35" width="800" height="677" key="#Auto_Import/0.27.1366.696@0.27.1366.696" timestamp="1582200433866" />
+    <state x="491" y="61" width="374" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1582184910058">
+      <screen x="0" y="27" width="1366" height="696" />
+    </state>
+    <state x="491" y="61" width="374" height="626" key="#com.intellij.ide.util.MemberChooser/0.27.1366.696@0.27.1366.696" timestamp="1582184910058" />
+    <state x="436" y="234" width="494" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1581934714932">
+      <screen x="0" y="27" width="1366" height="696" />
+    </state>
+    <state x="436" y="234" width="494" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.27.1366.696@0.27.1366.696" timestamp="1581934714932" />
+    <state x="416" y="123" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582183266695">
+      <screen x="0" y="27" width="1366" height="696" />
+    </state>
+    <state x="416" y="123" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.696@0.27.1366.696" timestamp="1582183266695" />
+    <state x="466" y="132" width="424" height="484" key="FileChooserDialogImpl" timestamp="1582179092873">
+      <screen x="0" y="27" width="1366" height="696" />
+    </state>
+    <state x="466" y="132" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.696@0.27.1366.696" timestamp="1582179092873" />
+    <state x="339" y="201" key="com.intellij.ide.util.TipDialog" timestamp="1582610683183">
+      <screen x="0" y="27" width="1366" height="696" />
+    </state>
+    <state x="339" y="201" key="com.intellij.ide.util.TipDialog/0.27.1366.696@0.27.1366.696" timestamp="1582610683183" />
+    <state x="0" y="72" width="1356" height="603" key="new project wizard" timestamp="1581936104855">
+      <screen x="0" y="27" width="1366" height="696" />
+    </state>
+    <state x="0" y="72" width="1356" height="603" key="new project wizard/0.27.1366.696@0.27.1366.696" timestamp="1581936104855" />
+    <state x="347" y="164" key="run.anything.popup" timestamp="1581490808580">
+      <screen x="0" y="27" width="1366" height="696" />
+    </state>
+    <state x="347" y="164" key="run.anything.popup/0.27.1366.696@0.27.1366.696" timestamp="1581490808580" />
+    <state x="346" y="44" width="672" height="678" key="search.everywhere.popup" timestamp="1582888409695">
+      <screen x="0" y="27" width="1366" height="696" />
+    </state>
+    <state x="346" y="44" width="672" height="678" key="search.everywhere.popup/0.27.1366.696@0.27.1366.696" timestamp="1582888409695" />
+  </component>
+</project>
